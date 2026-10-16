@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+sentence-transformers
+faiss-cpu
+pydantic
+pdfplumber
+pymupdf
+pytesseract
+pillow
+python-multipart
